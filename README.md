@@ -8,7 +8,7 @@ The goal is to generate a 56kHz IR carrier signal for the Miles Tag protocol
 ### duino_tag
 Code from [Instructables](http://www.instructables.com/id/Duino-Tagger/)
 ### IR_001_56kHz
-first baby steps towards a 56kHz signal
+first baby steps towards a 56kHz signal (*not working* (2014-06-10))
 
 ## Links
 * [Project with the same goal](http://j44industries.blogspot.de/p/projects.html)
