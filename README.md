@@ -16,4 +16,5 @@ first baby steps towards a 56kHz signal (*not working* (2014-06-10))
 * [http://www.instructables.com/id/Duino-Tagger/](http://www.instructables.com/id/Duino-Tagger/)
 * [short and clear](http://softsolder.com/2009/02/21/changing-the-arduino-pwm-frequency/)
 * [background explanation but somehow lacks practical examples](http://www.righto.com/2009/07/secrets-of-arduino-pwm.html)
+* [Introduction to AVR internals](http://urbanhonking.com/ideasfordozens/2009/05/18/an_tour_of_the_arduino_interna/)
 
